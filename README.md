@@ -25,8 +25,6 @@
 
 **[CrossNotes](https://github.com/Cygnus-27/crossnotes)** — An open-source, cross-platform Markdown editor built with Rust/Tauri and TypeScript.
 
-**ClubMeOut** — An app for VIT clubs and events, with login, guest mode, user roles, and chat.
-
 **WAKE** — A Roblox first-person asymmetric multiplayer game. Operatives manipulate the past to alter the present, while Patrollers investigate and hunt them down across dynamic, replayable timelines.
 
 ---
