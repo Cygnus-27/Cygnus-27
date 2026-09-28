@@ -2,7 +2,7 @@
 <h3 align="center">BTech CSE student building ML-driven tools and software systems</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/atharv-verma-a00066229" target="_blank">
+  <a href="https://www.linkedin.com/in/atharvverma227" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" />
   </a>
 </p>
@@ -11,11 +11,11 @@
 
 ### 🚀 About Me
 
-- 🎓 BTech CSE @ VIT Chennai, graduating 2028
-- 🧠 Growing my ML/AI skills through project work and coursework
-- 🛠️ Comfortable across Python, C++, Rust, and TypeScript — from ML/retrieval pipelines to full-stack apps
-- 📍 Based in Indore, MP
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/atharv-verma-a00066229)
+- 🎓 BTech CSE @ VIT Chennai, 2028
+- 🧠 Growing my ML/AI skills through project and coursework
+- 🛠️ Comfortable across Python, C++, Rust, and TypeScript, from ML/retrieval pipelines to full-stack apps
+- 📍 Based in Bhopal, MP
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/atharvverma227)
 
 ---
 
